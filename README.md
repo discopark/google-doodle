@@ -1,9 +1,9 @@
 # Topic Google Doodle
 
-50+ words about your Google Doodle.
+50+ words about Gamestop Stock.
 
 ## Collage
 
-[Link to Figma Collage](https://www.figma.com/file/KIEiC0Tgx5IF1BhpTLZhn0/Google-Doodle?node-id=0%3A1)
+[Link to Figma Collage](https://www.figma.com/file/eOl8eQJzpySlp0l6SgfILU/google-doodle)
 
 ## Resources

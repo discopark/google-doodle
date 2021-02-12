@@ -4,6 +4,6 @@
 
 ## Collage
 
-[Link to Figma Collage](https://www.figma.com/file/eOl8eQJzpySlp0l6SgfILU/google-doodle)
+[Link to Figma Collage](https://www.figma.com/file/UDyqOOMm276kxxsjtDldjw/google-doodle?node-id=0%3A1)
 
 ## Resources

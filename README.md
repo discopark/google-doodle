@@ -6,14 +6,13 @@ The stakes are enormous: The surge in trading drove GameStop’s value up by mor
 
 Exactly why GameStop’s value — on paper, at least — has rocketed to stratospheric levels has to do with a mix of traditional investing, rampant enthusiasm, stock market mechanics and the belief that anyone with a Robinhood account can meme a fortune into existence.
 
-What’s going on?
-It’s called a short squeeze, and it involves investors betting on which way a stock will go — up or down. These bets are placed by buying the shares themselves, or stock options, which we’ll grossly oversimplify here.
+What’s going on? It’s called a short squeeze, and it involves investors betting on which way a stock will go — up or down. These bets are placed by buying the shares themselves, or stock options, which we’ll grossly oversimplify here.
 
 Investors who bet against a stock are called “shorts.” In GameStop’s case, the shorts include at least two big hedge funds.
 
 ## Collage
 
-[Link to Figma Collage](https://www.figma.com/file/UDyqOOMm276kxxsjtDldjw/google-doodle?node-id=0%3A1)
+[Link to Figma Collage](https://www.figma.com/file/KIEiC0Tgx5IF1BhpTLZhn0/Google-Doodle?node-id=0%3A1)
 
 ## Resources
 
